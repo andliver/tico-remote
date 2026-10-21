@@ -1,0 +1,10 @@
+{
+  "latest_version": "1.0.0",
+  "notes": [
+    { "icon": "jar", "title": "Jars with goals", "body": "Name a jar, set a target and watch it fill" },
+    { "icon": "calendar", "title": "No-spend days", "body": "Mark them on your calendar and keep the streak" },
+    { "icon": "mic", "title": "Faster voice logging", "body": "Say it once, Tico gets the amount right" }
+  ],
+  "policies_version": "1",
+  "policies_updated_at": "2026-10-19"
+}
